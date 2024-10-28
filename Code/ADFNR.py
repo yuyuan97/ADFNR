@@ -2,10 +2,7 @@
 ### The final version of ADFNR  ####
 ####################################
 import numpy as np
-from scipy.io import loadmat
-import time
 import copy
-import csv
 
 def similarity(a,x,flag): #Calculate similarity
     """
